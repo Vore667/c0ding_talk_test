@@ -1,0 +1,8 @@
+Helife est tout gentille
+Cannelle sa rime avec caramel
+Eino > Stan
+
+Git status:
+
+La commande git status affiche l'état du répertoire de travail et de la zone de staging. 
+Elle vous permet de voir les changements qui ont été stagés, ceux qui ne l'ont pas été, ainsi que les fichiers qui sont suivis par Git. 
