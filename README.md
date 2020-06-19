@@ -14,4 +14,6 @@ Pourquoi Eino n'attaque pas les autres pokémons ?
 Parce qu'elle est contre la violence
 
 Pourquoi la violence ? 
-Parce que Lustrucru 
+Parce que Lustrucru
+
+Cannelle est bon comme un caramel
